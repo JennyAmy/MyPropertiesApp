@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fZ+I7Mwi+E8BhHzoSQJCxkdEaOKowZVj40BOYPY2y/hbZs7CS2WbL4y57m3Ets2b0M5jh/zlHp+8s5wiMhx1gA==",
+  "dgSpecHash": "hyuZ1PI2na1ggN1wSLCbNy06Nw0GcHBXu9Xnl8fS24hVqlkrA4BMz0229ZmVsPREDx4nCqZS4rx/wofYwmhNvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jennifer.Oliseynum\\Documents\\Projects\\NewProjects\\HousingAPI\\HousingAPI.csproj",
+  "projectFilePath": "C:\\Users\\Jennifer.Oliseynum\\Documents\\Projects\\Projects\\MyPropertiesApp\\HousingAPI\\HousingAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jennifer.Oliseynum\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Jennifer.Oliseynum\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
